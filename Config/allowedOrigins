@@ -1,0 +1,8 @@
+const allowedOrigins = [
+    'http://localhost:5000',
+    'https://www.twitter.com',
+    'https://twitter.com'
+
+]
+
+module.exports = allowedOrigins
